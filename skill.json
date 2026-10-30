@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-deep-research-fact-checker-skill",
+  "version": "1.0.0",
+  "description": "Multi-source research fact-checking and cross-referencing validator detecting hallucinations",
+  "mcp": {
+    "server": "mcp_server.py",
+    "tools": [
+      "verify_claim"
+    ]
+  }
+}
